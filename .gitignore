@@ -1,3 +1,4 @@
 # my fir .gitignore
 
 logs
+*.exe

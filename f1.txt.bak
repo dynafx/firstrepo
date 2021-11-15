@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-bool func();
-=======
+
 int func();
->>>>>>> feature
